@@ -55,7 +55,7 @@
     "@commitlint/config-conventional": "^8.2.0",
     "@semantic-release/changelog": "^5.0.1",
     "@semantic-release/git": "^9.0.0",
-    "axios": "^0.21.1",
+    "axios": "^1.12.2",
     "browserify": "^16.5.2",
     "codecov": "^3.8.1",
     "concat-stream": "^2.0.0",
@@ -91,7 +91,7 @@
     "async": "^3.2.0",
     "camelcase": "^6.2.0",
     "extend": "~3.0.2",
-    "ibm-cloud-sdk-core": "^2.10.3",
+    "ibm-cloud-sdk-core": "^5.4.3",
     "isstream": "~0.1.2",
     "websocket": "^1.0.33"
   },
